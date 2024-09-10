@@ -4,14 +4,14 @@ Welcome to my blog project! This blog is built using Next.js 14 Server Component
 
 ## Features
 
-- Modern Architecture: Built with Next.js 14 App Router using React Server Components for optimal performance.
-- Content Management: Wisp CMS integration makes it easy to manage and publish blog posts without worrying about markdown or complex setups.
-- Responsive Design: The layout is fully responsive, ensuring the blog looks great on both mobile devices and desktops.
-- Light & Dark Mode: Supports light and dark themes for a personalized reader experience.
-- SEO-Optimized: Automatically generates Open Graph images, sitemaps, and RSS feeds for better search engine visibility.
-- Tag Filtering: Blog posts can be filtered by tags, allowing readers to easily explore related content.
-- Related Posts Suggestions: Uses AI-driven recommendations to suggest related blog posts.
-- Built-in About Page: Comes with a pre-configured About page to introduce yourself or your blog’s purpose.
+- **Modern Architecture**: Built with Next.js 14 App Router using React Server Components for optimal performance.
+- **Content Management**: Wisp CMS integration makes it easy to manage and publish blog posts without worrying about markdown or complex setups.
+- **Responsive Design**: The layout is fully responsive, ensuring the blog looks great on both mobile devices and desktops.
+- **Light & Dark Mode**: Supports light and dark themes for a personalized reader experience.
+- **SEO-Optimized**: Automatically generates Open Graph images, sitemaps, and RSS feeds for better search engine visibility.
+- **Tag Filtering**: Blog posts can be filtered by tags, allowing readers to easily explore related content.
+- **Related Posts Suggestions**: Uses AI-driven recommendations to suggest related blog posts.
+- **Built-in About Page**: Comes with a pre-configured About page to introduce yourself or your blog’s purpose.
 
 ## Technologies Used
 
